@@ -4,6 +4,18 @@ body{
 h1{
     font-size: 35px;
 }
+
+
 .name{
     color:blueviolet;
+}
+section{
+    display:flex;
+}
+.half{
+    width: 60% ;
+    padding-left: 10%;
+}
+.half img{
+    width: 50%;
 }
