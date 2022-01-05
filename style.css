@@ -3,6 +3,10 @@ body{
 }
 h1{
     font-size: 35px;
+    padding-left: 5px;
+}
+.sidebar{
+    border-left: 3px solid red;
 }
 
 
