@@ -117,7 +117,7 @@ color:orangered;
     color: yellow;
 }
 .box{
-    background-color:teal ;
+    background-color:black ;
     margin: 0%;
 }
 .half-para{
@@ -134,11 +134,10 @@ color:orangered;
     margin-left: 50px auto;
     justify-content: space-evenly;
 }
-footer h1{
-    text-align: center;
-}
+
 footer p{
     text-align: center;
+    color:blanchedalmond;
 }
 #footer{
     font-weight: 900;
