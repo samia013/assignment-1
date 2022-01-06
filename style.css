@@ -35,4 +35,5 @@ section{
 
 .develop{
     background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
 }
