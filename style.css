@@ -58,6 +58,23 @@ text-decoration: none;
     font-weight: 800;
 }
 
+.link-button2{
+    text-decoration: none;
+    background-color: lightblue;
+    background-image: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 800;
+}
+
+.link-button3{
+    text-decoration: none;
+    background-color: lightcoral;
+    background-image: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 800;
+}
 .develop{
     background-image: url(shape-1.png);
     background-repeat: no-repeat;
