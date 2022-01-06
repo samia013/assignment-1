@@ -48,6 +48,15 @@ h1{
     border-radius: 5px;
     font-weight: 800;
 }
+.link-button1{
+
+text-decoration: none;
+    background-color: tomato;
+    background-image: linear-gradient(rgb(31, 18, 20) rgb(24, 11, 36));
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 800;
+}
 
 .develop{
     background-image: url(shape-1.png);
@@ -57,6 +66,7 @@ h1{
     display:flex;
     padding-left: 20px;
 }
+
     .edit{
         margin-bottom: 100px;
     display:flex;
