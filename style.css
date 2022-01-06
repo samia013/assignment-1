@@ -52,13 +52,12 @@ h1{
     margin-bottom: 100px;
     display:flex;
     padding-left: 20px;
+}
     
 
-       
-}
-.center{
-    text-align: center;
-}
+   .center{
+       text-align: center;
+   }
 
 .this{
     color:palevioletred;
