@@ -57,17 +57,28 @@ h1{
 }
 #box{
     background-color:orange;
-    padding-inline: 5px;
-    padding-bottom: 5%;
+    padding-left: 10px;
+    padding-bottom: 10%;
+    padding-right: 10px;
+    border-radius: 20px;
+    text-align: justify
+
 }
 #cool{
     background-color:tan;
-    padding-inline: 5px;
+    padding-left: 10px;
     padding-bottom: 5%;
+    border-radius: 20px;
+    padding-right: 10px;
+    
+    text-align: justify;
 
 }
 #font{
     background-color:yellowgreen;
-    padding-inline: 5px;
-    padding-bottom: 5%;
+    padding-left: 10px;
+    padding-bottom: 10%;
+    padding-right: 10px;
+    border-radius: 20px;
+    text-align: justify;
 }
