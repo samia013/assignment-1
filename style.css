@@ -119,6 +119,8 @@ color:orangered;
 .box{
     background-color:black ;
     margin: 0%;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 .half-para{
     padding-left: 20px;
