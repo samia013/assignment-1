@@ -33,6 +33,10 @@ h1{
 
     }
 
+    .that{
+        padding-right: 50px;
+    }
+
  .half-it{
     margin-bottom: 100px;
  }
@@ -53,14 +57,26 @@ h1{
     display:flex;
     padding-left: 20px;
 }
+    .edit{
+        margin-bottom: 100px;
+    display:flex;
     
+    }
 
    .center{
        text-align: center;
+       margin-bottom: 100px;
    }
 
 .this{
     color:palevioletred;
+}
+.thisone {
+color:darkblue;
+}
+
+.sure{
+    color:darkred;
 }
 #box{
     background-color:orange;
