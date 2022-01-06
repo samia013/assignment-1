@@ -25,6 +25,10 @@ h1{
 .half img{
     width: 70%;
 }
+.half-it img{
+    width: 70%;
+    padding-right: 10%;
+}
 .link-button{
     text-decoration: none;
     background-color: greenyellow;
@@ -39,8 +43,10 @@ h1{
     background-repeat: no-repeat;
     background-size: 55px;
     margin-bottom: 100px;
+    display:flex;
     
-    
+
+       
 }
 .center{
     text-align: center;
@@ -48,4 +54,20 @@ h1{
 
 .this{
     color:palevioletred;
+}
+#box{
+    background-color:orange;
+    padding-inline: 5px;
+    padding-bottom: 5%;
+}
+#cool{
+    background-color:tan;
+    padding-inline: 5px;
+    padding-bottom: 5%;
+
+}
+#font{
+    background-color:yellowgreen;
+    padding-inline: 5px;
+    padding-bottom: 5%;
 }
