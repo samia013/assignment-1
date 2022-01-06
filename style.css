@@ -42,4 +42,10 @@ h1{
     
     
 }
+.center{
+    text-align: center;
+}
 
+.this{
+    color:palevioletred;
+}
