@@ -13,16 +13,17 @@ h1{
 .name{
     color:blueviolet;
 }
-section{
+.about-flexible{
     display:flex;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 .half{
     width: 60% ;
     padding-left: 10%;
+    padding-right: 5%;
 }
 .half img{
-    width: 50%;
+    width: 70%;
 }
 .link-button{
     text-decoration: none;
@@ -36,4 +37,9 @@ section{
 .develop{
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
+    background-size: 55px;
+    margin-bottom: 100px;
+    
+    
 }
+
