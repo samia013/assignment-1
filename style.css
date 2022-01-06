@@ -109,6 +109,14 @@ color:darkblue;
     height:auto 100px;
    border: 1px ;
 }
+
+.doit{
+    color: yellow;
+}
+.box{
+    background-color:rgb(112, 85, 138) ;
+    margin: 0%;
+}
 .half-para{
     padding-left: 20px;
 }
@@ -120,6 +128,15 @@ color:darkblue;
 }
 .width{
     width:100%;
-    margin: 50px auto;
+    margin-left: 50px auto;
     justify-content: space-evenly;
+}
+footer h1{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+#footer{
+    font-weight: 900;
 }
